@@ -1,0 +1,297 @@
+/Users/shanikumar/PycharmProjects/untitled/venv/bin/python /Users/shanikumar/PycharmProjects/DSC-540/Assignment_6_2_data_format.py
+Cleaned data:
+odict_items([('Cluster number', '1'), ('Household number', '17'), ('Line number', '1'), ("Man's line number", '1'), ('Interviewer number', '14'), ('Day of interview', '7'), ('Month of interview', '4'), ('Year of interview', '2014'), ("Result of man's interview", 'Completed'), ('Field editor', '2'), ('Data entry clerk', '20'), ('Start of interview - Hour', '17'), ('Start of interview - Minutes', '59'), ('End of interview - Hour', '18'), ('End of interview - Minutes', '7'), ('Month of birth of man', '5'), ('Year of birth of man', '1984'), ('Age of man', '29'), ('Ever attended school', 'Yes'), ('Highest level of school attended', 'Higher'), ('Highest grade completed at that level', '31'), ('Can read part of the sentence', 'NA'), ('Frequency of reading newspaper or magazine', 'Almost every day'), ('Frequency of listening to the radio', 'At least once a week'), ('Frequency of watching TV', 'Less than once a week'), ('Ever used a computer', 'Yes'), ('Computer usage in the last 12 months', 'Yes'), ('Frequency of computer usage in the last month', 'Almost every day'), ('Ever used internet', 'Yes'), ('Internet usage in the last 12 months', 'Yes'), ('Frequency of Internet usage in the past month', 'Almost every day'), ('Ever used a mobile or non-mobile phone', 'Yes'), ('Mobile or non-mobile phone usage in the last 12 months', 'Yes'), ('Frequency of mobile or non-mobile usage in the past month', 'Almost every day'), ('Ever fathered any children with any women', 'No'), ('Age when first child was born', 'NA'), ('Any sons or daughters living with you', 'NA'), ('Sons living with you', 'NA'), ('Daughters living with you', 'NA'), ('Any sons or daughters not living with you', 'NA'), ('Sons living elsewhere', 'NA'), ('Daughters living elsewhere', 'NA'), ('Ever had child who later died', 'No'), ('Boys dead', 'NA'), ('Girls dead', 'NA'), ('Children ever born', '0'), ('Same biological mother', 'NA'), ('Number of women respondent fathered children with', 'NA'), ('Month of last birth', 'NA'), ('Year of last birth', 'NA'), ('If she goes out with out telling husband: wife beating justified', 'No'), ('If she neglects the children: wife beating justified', 'No'), ('If she argues with husband: wife beating justified', 'No'), ('If she refuses sex with husband: wife beating justified', 'No'), ('If she burns the food: wife beating justified', 'No'), ('Currently married or living with a man', 'Yes, currently married'), ('Haveing other wives or liveing with other women as if you are married', 'No (Only one)'), ('How many other wives / partners living with you', 'NA'), ('Ever married or lived with a woman', 'NA'), ('Marital status', 'NA'), ('Married or lived with a woman once or more than once', 'Only once'), ('Month of first union', '9'), ('Year of first union', '2013'), ('Age at first union', 'NA'), ('Age at first sexual intercourse', '20'), ('Condom used during first sexual intercourse', 'Yes'), ('Time since last sexual intercourse (unit)', 'Days ago'), ('Time since last sexual intercourse (number)', '0'), ('Condom used at last sexual intercourse', 'No'), ('Relationship to last sexual partner', 'Wife'), ('Sex with any other person in the last 12 month', 'No'), ('Condom used with prior sexual partner', 'NA'), ('Relationship to prior sexual partner', 'NA'), ('Sex with any other man in the last 12 months', 'NA'), ('Number of sex partners in last 12 months', 'NA'), ('Number of sex partners in lifetime', '5'), ('Ever heard of AIDS', 'Yes'), ('Can avoid AIDS virus by having one uninfected partner', 'Yes'), ('Can get AIDS virus through supernatural means', 'No'), ('Can avoid AIDS virus by using a condom correctly every time', 'Yes'), ('Can get AIDS virus from mosquito bites', 'No'), ('Can get AIDS virus by sharing food with a person who has AIDS', 'No'), ('Healthy-looking person may have AIDS virus', 'Yes'), ('AIDS virus from mother to child during pregnancy', 'DK'), ('AIDS virus from mother to child during delivery', 'Yes'), ('AIDS virus from mother to child through breastfeeding', 'DK'), ('Should female teacher with AIDS virus be allowed to teach in school', 'Yes'), ('Would buy fresh vegetables from shopkeeper with AIDS virus', 'Yes'), ('If HH member became infected with AIDS virus, would want it to remain a secret', 'No'), ('Willing to care for person with AIDS in household', 'Yes'), ('Ever been tested for AIDS virus', 'Yes'), ('Most recent time of testing for AIDS virus', 'Less than 12 months ago'), ('Received results of AIDS virus test', 'Yes'), ('Know a place to get AIDS virus test', 'NA'), ('Respondent is circumcised', 'No'), ('Age at circumcision', 'NA'), ('Person performing circumcision', 'NA'), ('Place of circumcision', 'NA'), ('Ever tried cigarette smoking', 'No'), ('Age when cigarette was smoked for the first time', 'NA'), ('Currently smoking cigarettes', 'NA'), ('Number of cigarettes smoked in the last 24 hours', 'NA'), ('Number of days when cigarettes were smoked in past month', 'NA'), ('Ever tried any smoked tobacco products other than cigarettes', 'No'), ('Used any smoked tobacco products during the last month', 'NA'), ('Type of smoked tobacco product: Cigars', 'NA'), ('Type of smoked tobacco product: Water pipe', 'NA'), ('Type of smoked tobacco product: Cigarillos', 'NA'), ('Type of smoked tobacco product: Pipe', 'NA'), ('Type of smoked tobacco product: Other', 'NA'), ('Number of days when tobacco products where smoked in past month', 'NA'), ('Ever tried any form of smokeless tobacco products', 'No'), ('Used any smokeless tobacco products during the last month', 'NA'), ('Type of smokeless tobacco product used: Chewing tobacco', 'NA'), ('Type of smokeless tobacco product used: Snuff', 'NA'), ('Type of smokeless tobacco product used: Dip', 'NA'), ('Type of smokeless tobacco product used: Other', 'NA'), ('Number of days when smokeless tobacco products where used in past month', 'NA'), ('Ever drunk alcohol', 'Yes'), ('Age when alcohol was used for the first time', '16'), ('Number of days when at least one drink of alcohol was used in past month', '0'), ('Number of drinks usually consumed', 'NA'), ('Net number', 'NA'), ('Mosquito net observed', 'NA'), ('Brand/type of observed net', 'NA'), ('Months ago net obtained', 'NA'), ('Net treated with an insecticide when obtained', 'NA'), ('Net soaked or dipped since obtained', 'NA'), ('Months ago net soaked or dipped', 'NA'), ('Persons slept under mosquito net last night', 'NA'), ('Person 1 who slept under net', 'NA'), ('Person 2 who slept under net', 'NA'), ('Person 3 who slept under net', 'NA'), ('Person 4 who slept under net', 'NA'), ('Area', 'Urban'), ('Region', 'Bulawayo'), ('Date of interview women (CMC)', '1372'), ('Date of birth of woman (CMC)', '1013'), ('Age', '25-29'), ('Date of marriage (CMC)', '1365'), ('Age at first marriage/union', '29'), ('Date of birth of last child (CMC)', 'NA'), ('Marital/Union status', 'Currently married/in union'), ('Children surviving', '0'), ('Children dead', '0'), ('Wealth index score', '1.60367010204171'), ('Wealth index quintiles', '5')])
+Question: Cluster number
+Answer: 1
+Question: Household number
+Answer: 17
+Question: Line number
+Answer: 1
+Question: Man's line number
+Answer: 1
+Question: Interviewer number
+Answer: 14
+Question: Day of interview
+Answer: 7
+Question: Month of interview
+Answer: 4
+Question: Year of interview
+Answer: 2014
+Question: Result of man's interview
+Answer: Completed
+Question: Field editor
+Answer: 2
+Question: Data entry clerk
+Answer: 20
+Question: Start of interview - Hour
+Answer: 17
+Question: Start of interview - Minutes
+Answer: 59
+Question: End of interview - Hour
+Answer: 18
+Question: End of interview - Minutes
+Answer: 7
+Question: Month of birth of man
+Answer: 5
+Question: Year of birth of man
+Answer: 1984
+Question: Age of man
+Answer: 29
+Question: Ever attended school
+Answer: Yes
+Question: Highest level of school attended
+Answer: Higher
+Question: Highest grade completed at that level
+Answer: 31
+Question: Can read part of the sentence
+Answer: NA
+Question: Frequency of reading newspaper or magazine
+Answer: Almost every day
+Question: Frequency of listening to the radio
+Answer: At least once a week
+Question: Frequency of watching TV
+Answer: Less than once a week
+Question: Ever used a computer
+Answer: Yes
+Question: Computer usage in the last 12 months
+Answer: Yes
+Question: Frequency of computer usage in the last month
+Answer: Almost every day
+Question: Ever used internet
+Answer: Yes
+Question: Internet usage in the last 12 months
+Answer: Yes
+Question: Frequency of Internet usage in the past month
+Answer: Almost every day
+Question: Ever used a mobile or non-mobile phone
+Answer: Yes
+Question: Mobile or non-mobile phone usage in the last 12 months
+Answer: Yes
+Question: Frequency of mobile or non-mobile usage in the past month
+Answer: Almost every day
+Question: Ever fathered any children with any women
+Answer: No
+Question: Age when first child was born
+Answer: NA
+Question: Any sons or daughters living with you
+Answer: NA
+Question: Sons living with you
+Answer: NA
+Question: Daughters living with you
+Answer: NA
+Question: Any sons or daughters not living with you
+Answer: NA
+Question: Sons living elsewhere
+Answer: NA
+Question: Daughters living elsewhere
+Answer: NA
+Question: Ever had child who later died
+Answer: No
+Question: Boys dead
+Answer: NA
+Question: Girls dead
+Answer: NA
+Question: Children ever born
+Answer: 0
+Question: Same biological mother
+Answer: NA
+Question: Number of women respondent fathered children with
+Answer: NA
+Question: Month of last birth
+Answer: NA
+Question: Year of last birth
+Answer: NA
+Question: If she goes out with out telling husband: wife beating justified
+Answer: No
+Question: If she neglects the children: wife beating justified
+Answer: No
+Question: If she argues with husband: wife beating justified
+Answer: No
+Question: If she refuses sex with husband: wife beating justified
+Answer: No
+Question: If she burns the food: wife beating justified
+Answer: No
+Question: Currently married or living with a man
+Answer: Yes, currently married
+Question: Haveing other wives or liveing with other women as if you are married
+Answer: No (Only one)
+Question: How many other wives / partners living with you
+Answer: NA
+Question: Ever married or lived with a woman
+Answer: NA
+Question: Marital status
+Answer: NA
+Question: Married or lived with a woman once or more than once
+Answer: Only once
+Question: Month of first union
+Answer: 9
+Question: Year of first union
+Answer: 2013
+Question: Age at first union
+Answer: NA
+Question: Age at first sexual intercourse
+Answer: 20
+Question: Condom used during first sexual intercourse
+Answer: Yes
+Question: Time since last sexual intercourse (unit)
+Answer: Days ago
+Question: Time since last sexual intercourse (number)
+Answer: 0
+Question: Condom used at last sexual intercourse
+Answer: No
+Question: Relationship to last sexual partner
+Answer: Wife
+Question: Sex with any other person in the last 12 month
+Answer: No
+Question: Condom used with prior sexual partner
+Answer: NA
+Question: Relationship to prior sexual partner
+Answer: NA
+Question: Sex with any other man in the last 12 months
+Answer: NA
+Question: Number of sex partners in last 12 months
+Answer: NA
+Question: Number of sex partners in lifetime
+Answer: 5
+Question: Ever heard of AIDS
+Answer: Yes
+Question: Can avoid AIDS virus by having one uninfected partner
+Answer: Yes
+Question: Can get AIDS virus through supernatural means
+Answer: No
+Question: Can avoid AIDS virus by using a condom correctly every time
+Answer: Yes
+Question: Can get AIDS virus from mosquito bites
+Answer: No
+Question: Can get AIDS virus by sharing food with a person who has AIDS
+Answer: No
+Question: Healthy-looking person may have AIDS virus
+Answer: Yes
+Question: AIDS virus from mother to child during pregnancy
+Answer: DK
+Question: AIDS virus from mother to child during delivery
+Answer: Yes
+Question: AIDS virus from mother to child through breastfeeding
+Answer: DK
+Question: Should female teacher with AIDS virus be allowed to teach in school
+Answer: Yes
+Question: Would buy fresh vegetables from shopkeeper with AIDS virus
+Answer: Yes
+Question: If HH member became infected with AIDS virus, would want it to remain a secret
+Answer: No
+Question: Willing to care for person with AIDS in household
+Answer: Yes
+Question: Ever been tested for AIDS virus
+Answer: Yes
+Question: Most recent time of testing for AIDS virus
+Answer: Less than 12 months ago
+Question: Received results of AIDS virus test
+Answer: Yes
+Question: Know a place to get AIDS virus test
+Answer: NA
+Question: Respondent is circumcised
+Answer: No
+Question: Age at circumcision
+Answer: NA
+Question: Person performing circumcision
+Answer: NA
+Question: Place of circumcision
+Answer: NA
+Question: Ever tried cigarette smoking
+Answer: No
+Question: Age when cigarette was smoked for the first time
+Answer: NA
+Question: Currently smoking cigarettes
+Answer: NA
+Question: Number of cigarettes smoked in the last 24 hours
+Answer: NA
+Question: Number of days when cigarettes were smoked in past month
+Answer: NA
+Question: Ever tried any smoked tobacco products other than cigarettes
+Answer: No
+Question: Used any smoked tobacco products during the last month
+Answer: NA
+Question: Type of smoked tobacco product: Cigars
+Answer: NA
+Question: Type of smoked tobacco product: Water pipe
+Answer: NA
+Question: Type of smoked tobacco product: Cigarillos
+Answer: NA
+Question: Type of smoked tobacco product: Pipe
+Answer: NA
+Question: Type of smoked tobacco product: Other
+Answer: NA
+Question: Number of days when tobacco products where smoked in past month
+Answer: NA
+Question: Ever tried any form of smokeless tobacco products
+Answer: No
+Question: Used any smokeless tobacco products during the last month
+Answer: NA
+Question: Type of smokeless tobacco product used: Chewing tobacco
+Answer: NA
+Question: Type of smokeless tobacco product used: Snuff
+Answer: NA
+Question: Type of smokeless tobacco product used: Dip
+Answer: NA
+Question: Type of smokeless tobacco product used: Other
+Answer: NA
+Question: Number of days when smokeless tobacco products where used in past month
+Answer: NA
+Question: Ever drunk alcohol
+Answer: Yes
+Question: Age when alcohol was used for the first time
+Answer: 16
+Question: Number of days when at least one drink of alcohol was used in past month
+Answer: 0
+Question: Number of drinks usually consumed
+Answer: NA
+Question: Net number
+Answer: NA
+Question: Mosquito net observed
+Answer: NA
+Question: Brand/type of observed net
+Answer: NA
+Question: Months ago net obtained
+Answer: NA
+Question: Net treated with an insecticide when obtained
+Answer: NA
+Question: Net soaked or dipped since obtained
+Answer: NA
+Question: Months ago net soaked or dipped
+Answer: NA
+Question: Persons slept under mosquito net last night
+Answer: NA
+Question: Person 1 who slept under net
+Answer: NA
+Question: Person 2 who slept under net
+Answer: NA
+Question: Person 3 who slept under net
+Answer: NA
+Question: Person 4 who slept under net
+Answer: NA
+Question: Area
+Answer: Urban
+Question: Region
+Answer: Bulawayo
+Question: Date of interview women (CMC)
+Answer: 1372
+Question: Date of birth of woman (CMC)
+Answer: 1013
+Question: Age
+Answer: 25-29
+Question: Date of marriage (CMC)
+Answer: 1365
+Question: Age at first marriage/union
+Answer: 29
+Question: Date of birth of last child (CMC)
+Answer: NA
+Question: Marital/Union status
+Answer: Currently married/in union
+Question: Children surviving
+Answer: 0
+Question: Children dead
+Answer: 0
+Question: Wealth index score
+Answer: 1.60367010204171
+Question: Wealth index quintiles
+Answer: 5
