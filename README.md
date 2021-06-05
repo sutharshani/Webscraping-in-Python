@@ -44,7 +44,7 @@ Shani Kumar \
 [back to top](#table-of-contents)
 
 ## Acknowledgement
-This progject help me working on different web scripting and data wrangling techniques.
+This progject help me working on different web scripting and data wrangling techniques. \
 [back to top](#table-of-contents)
 
 ## Reference
