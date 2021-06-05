@@ -48,8 +48,9 @@ This progject help me working on different web scripting and data wrangling tech
 [back to top](#table-of-contents)
 
 ## Reference
-•	https://www.tutorialspoint.com/python_data_science/python_data_wrangling.htm
-•	https://www.kdnuggets.com/2017/01/pandas-cheat-sheet.html
-•	https://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/
+
+* https://www.tutorialspoint.com/python_data_science/python_data_wrangling.htm
+* https://www.kdnuggets.com/2017/01/pandas-cheat-sheet.html
+*	https://www.analyticsvidhya.com/blog/2014/09/data-munging-python-using-pandas-baby-steps-python/
 
 [back to top](#table-of-contents)
